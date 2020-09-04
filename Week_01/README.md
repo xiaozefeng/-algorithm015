@@ -2,7 +2,7 @@
 
 ## The brain map
 
-![Week_One_Sumerize](https://raw.githubusercontent.com/xiaozefeng/-algorithm015/master/Week_01/Week_One_Sumerize.png)
+![Week_One_Sumerize](https://gitee.com/xiaozefeng/images/raw/master/Week_One_Sumerize.png)
 
 
 

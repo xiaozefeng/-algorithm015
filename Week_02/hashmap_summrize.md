@@ -1,6 +1,6 @@
 # HashMap Summrize
 
-![hashmap](https://raw.githubusercontent.com/xiaozefeng/-algorithm015/master/Week_02/hashmap.png)
+![hashmap](https://gitee.com/xiaozefeng/images/raw/master/hashmap.png)
 
 HashMap 实现了 Map 接口,  允许 `null key and null value,`
 
