@@ -2,7 +2,7 @@
 
 ## Brain Map
 
-https://gitee.com/xiaozefeng/images/raw/master/Week_Four.png
+w
 
 ## DFS
 
